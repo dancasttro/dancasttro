@@ -1,4 +1,4 @@
-## HHey, I'm Daniel Castro 💻 :metal:
+## Hey, I'm Daniel Castro 💻 :metal:
 
 I've been working as Front-End Developer since 2013 and currently I'm a Front-end Engineer based in São Paulo.
 
