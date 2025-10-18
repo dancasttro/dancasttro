@@ -1,6 +1,5 @@
 ## Hey, I'm Daniel Castro 💻 :metal:
 
-**`Front-End Engineer`**
 
 I've been working as Front-End Developer since 2013. Actually I work as a Front-End Engineer at [Mercado Livre](https://www.mercadolivre.com.br/).
 
